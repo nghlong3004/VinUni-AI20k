@@ -31,6 +31,7 @@ Gọi `call_openai` với các giá trị temperature 0.0, 0.5, 1.0 và 1.5 sử
 **Bạn sẽ đặt temperature bao nhiêu cho chatbot hỗ trợ khách hàng, và tại sao?**
 > Em sẽ đặt temperature ở ngưỡng 0.2–0.3. Chatbot hỗ trợ khách hàng cần câu trả lời nhất quán, chính xác và đáng tin cậy, không cần sự sáng tạo. Temperature thấp đảm bảo mô hình ưu tiên token có xác suất cao nhất, giảm thiểu rủi ro trả lời sai lệch hoặc không liên quan.
 
+
 ---
 
 ### Bài tập 2.2 — Đánh Đổi Chi Phí
